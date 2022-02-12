@@ -1,8 +1,7 @@
 
+## Why it born
 
-## Features
-
-P-Clash｜Plash means Plus more feature for my Personal use mainly in Mac, it inherits from clash.meta/clash.
+P-Clash｜Plash means that it PLUS more features PERSONALLY mainly using in Mac currently, it inherits from clash.meta/clash.
 
 ## To-do list
 - Support wireguard
