@@ -5,5 +5,6 @@ P-Clash｜Plash means that it PLUS more features PERSONALLY mainly using in Mac 
 
 ## To-do list
 - Support wireguard
+- Better branch management and release pipeline 
 
 
